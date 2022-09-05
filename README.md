@@ -1,6 +1,6 @@
 # Data Science for HR Department
 
-[Image](https://drive.google.com/file/d/1DZxw32cVAJvgj1YPhp5KPvI4cINMQXi2/view?usp=sharing)
+![image](https://drive.google.com/file/d/1DZxw32cVAJvgj1YPhp5KPvI4cINMQXi2/view?usp=sharing)
 
 The employee recruitment process takes a long time and costs a lot of money. Just the price of finding the right person to hire can be hefty. There are various potentially high costs just in the process of recruiting, according to business consultant Bill Bliss, president of Bliss & Associates Inc. These include advertising the opening, the time cost of an internal recruiter, the time cost of a recruiter's assistant in reviewing resumes and performing other recruitment-related tasks, the time cost of the person conducting the interviews, drug screens and background checks, and various pre-employment assessment tests.
 Not every new hire will require the same process, but even an $8/hour employee can end up costing a company around $3,500 in turnover costs, both direct and indirect. source : https://www.businessnewsdaily.com/16562-cost-of-hiring-an-employee.html
